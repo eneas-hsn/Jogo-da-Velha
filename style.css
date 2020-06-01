@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#visor{
+    margin: auto;
+    margin-top:30px;
+    width: 230px;
+}
+#visor p{
+    margin-right: 40px;
+    float: left;
+}
+#xis{
+    height: 50px;
+    width: 50px;
+}
+.espaco{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    float: left;
+}
+#tabuleiro{
+    height: 252px;
+    width: 252px;
+    margin: auto;
+    margin-top: 30px;
+}

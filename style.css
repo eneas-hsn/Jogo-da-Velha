@@ -10,9 +10,15 @@ body{
     margin-right: 40px;
     float: left;
 }
-#xis{
+.imagens{
     height: 50px;
     width: 50px;
+}
+.imagensJogo{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 .espaco{
     width: 80px;
